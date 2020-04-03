@@ -196,12 +196,12 @@
         "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -230,6 +230,10 @@
     {
         "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_simple.xml.flat",
+        "source": "D:\\android projects\\FragmentExample\\app\\src\\main\\res\\layout\\fragment_simple.xml"
     },
     {
         "merged": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
