@@ -1,4 +1,4 @@
-package com.example.android.fragmentexample;
+package com.example.android.fragmentcommunicate;
 
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;

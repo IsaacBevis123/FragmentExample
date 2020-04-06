@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentexample;
+package com.example.android.fragmentcommunicate;
 
 import android.content.Intent;
 import android.support.v4.app.FragmentManager;

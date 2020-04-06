@@ -1,4 +1,4 @@
-package com.example.android.fragmentexample;
+package com.example.android.fragmentcommunicate;
 
 
 import android.os.Bundle;

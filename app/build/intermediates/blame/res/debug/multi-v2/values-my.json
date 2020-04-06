@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android projects\\FragmentExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+            "outputFile": "D:\\android projects\\FragmentCommunicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
             "map": [
                 {
                     "source": "C:\\Users\\isaac\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\b6808642d591d1107d0aa1dcf2119260\\res\\values-my\\values-my.xml",
