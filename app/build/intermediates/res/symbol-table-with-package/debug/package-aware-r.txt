@@ -710,7 +710,6 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
-id ratingBar
 id right_icon
 id right_side
 id screen

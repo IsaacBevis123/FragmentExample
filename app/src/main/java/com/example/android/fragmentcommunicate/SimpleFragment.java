@@ -85,15 +85,6 @@ public class SimpleFragment extends Fragment {
             }
         });
 
-        final RatingBar ratingBar = rootView.findViewById(R.id.ratingBar);
-        ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
-            @Override
-            public void onRatingChanged(RatingBar ratingBar, float v, boolean b) {
-                String msg = "My Rating: " + v;
-                Toast.makeText(getContext(), msg, Toast.LENGTH_SHORT).show();
-            }
-        });
-
         // Return the View for the fragment's UI.
         return rootView;
     }
