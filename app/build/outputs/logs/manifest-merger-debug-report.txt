@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\b6808642d591d1107d0aa1dcf2119260\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\3d0ff169fa6ab21e0fa9e3b0a26d2c14\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\5f18e73a36622f6e84a79300996989f5\AndroidManifest.xml:17:1-31:12
@@ -14,25 +14,25 @@ MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\isaac\.gradle\
 MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\24dc50749fc3adc099feb241de0edafe\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\e652ec6aed551fa6d47ec14322d19b92\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\1a409c29167dda47cc968db8f2071dc4\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:3:5-50
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:3:5-54
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\b6808642d591d1107d0aa1dcf2119260\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\b6808642d591d1107d0aa1dcf2119260\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.1] C:\Users\isaac\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\3d0ff169fa6ab21e0fa9e3b0a26d2c14\AndroidManifest.xml:25:5-29:19
@@ -65,24 +65,20 @@ MERGED from [com.android.support:support-compat:26.0.1] C:\Users\isaac\.gradle\c
 		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.android.fragmentexample.SecondActivity
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:12:9-61
+activity#com.example.android.fragmentcommunicate.MainActivity
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:12:19-49
-activity#com.example.android.fragmentexample.MainActivity
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:13:9-19:20
-	android:name
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:12:19-86
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\android projects\FragmentCommunicate\app\src\main\AndroidManifest.xml
