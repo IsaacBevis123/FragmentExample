@@ -653,6 +653,7 @@ id all
 id always
 id article
 id async
+id back_button
 id basic
 id beginning
 id blocking
@@ -695,6 +696,7 @@ id message
 id middle
 id multiply
 id never
+id next_button
 id none
 id normal
 id notification_background
@@ -793,6 +795,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_second
 layout fragment_simple
 layout notification_action
 layout notification_action_tombstone
@@ -850,10 +853,12 @@ string abc_toolbar_collapse_description
 string app_name
 string article1
 string article2
+string back
 string close
 string exception_message
 string hello_blank_fragment
 string like_the_song
+string next
 string no
 string no_message
 string open
